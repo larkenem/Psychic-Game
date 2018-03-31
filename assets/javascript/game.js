@@ -33,6 +33,7 @@ document.onkeyup = function(event) {
         lettersGuessed=[];
         //new random letter
         computerGuess = alphabet[Math.floor(Math.random() * alphabet.length)];
+        console.log("computer" + computerGuess);
     }
 
     else {
@@ -52,6 +53,7 @@ document.onkeyup = function(event) {
         lettersGuessed=[];
         //new random number
         computerGuess = alphabet[Math.floor(Math.random() * alphabet.length)];
+        console.log("computer" + computerGuess);
     }
 
 //showing everything in the HTML

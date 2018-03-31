@@ -1,13 +1,12 @@
-body,html {
+body {
     text-align: center;
-    height: 100%;
     margin: 0;
+    background-image: url("../images/crystalball.jpg");
+    /* background-size: 100%; */
+    color: white;
+    font-family: 'The Girl Next Door', cursive;
 }
 
-.bg {
-    background-image: url("../images/psychic.jpg");;
-    height: 100%; 
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+h1 {
+    font-size: 48px;
 }
