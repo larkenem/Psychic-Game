@@ -1,12 +1,26 @@
 body {
     text-align: center;
-    margin: 0;
-    background-image: url("../images/crystalball.jpg");
-    /* background-size: 100%; */
-    color: white;
-    font-family: 'The Girl Next Door', cursive;
+    background-image: url("../images/witchy.jpg");
+    font-family: 'Creepster', cursive;
+    
+}
+.container {
+    background-color: rgba(0, 0, 0, 0.822);
+    width: 100%;
+    height: 100%;
 }
 
 h1 {
-    font-size: 48px;
+    font-size: 70px;
+    color: rgb(61, 228, 10);
+}
+
+h2 {
+    font-size: 54px;
+    color: rgb(228, 18, 18);
+}
+
+p {
+    font-size: 34px;
+    color: rgb(230, 27, 230);
 }
