@@ -1,0 +1,13 @@
+body,html {
+    text-align: center;
+    height: 100%;
+    margin: 0;
+}
+
+.bg {
+    background-image: url("../images/psychic.jpg");;
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
